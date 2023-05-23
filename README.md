@@ -19,12 +19,4 @@
   
 </div>
   
-  ##
-  
-<div>  
 
-
-  ![Snake animation](https://github.com/kauhan/kauhan/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  
