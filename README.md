@@ -22,9 +22,9 @@
   ##
   
 <div>  
-  <a href = "mailto:matheusfssilva2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/matheus-nbx52/matheus-nbx52/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/kauhan/kauhan/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
